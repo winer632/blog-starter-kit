@@ -10,9 +10,9 @@ ogImage:
   url: '/assets/blog/chatgpt-china/cover.webp'
 ---
 
-ChatGPT China Station: Experience the latest technological achievements with zero threshold! ChatGPT: Your knowledgeable and helpful friend!
+ChatGPT China Web: Experience the latest technological achievements with zero threshold! ChatGPT: Your knowledgeable and helpful friend!
 
-Have you ever wished for a good friend who could answer any questions, help you complete any tasks, and accompany you through any moments? Now, your wish can come true! ChatGPT China Station is here! It allows everyone to access the latest technological achievements with zero threshold!
+Have you ever wished for a good friend who could answer any questions, help you complete any tasks, and accompany you through any moments? Now, your wish can come true! ChatGPT China Web is here! It allows everyone to access the latest technological achievements with zero threshold!
 
 Just visit [**https://bizoe.tech**](https://bizoe.tech) and you can immediately enjoy the world’s most cutting-edge technological achievements and have a smart AI assistant!
 
