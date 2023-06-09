@@ -14,7 +14,7 @@ const Footer = () => {
               Navigate to ChatGPT China
             </a>
             <a
-              href={`http://localhost:3000/posts/chatgpt-china-cn/`}
+              href={`https://blog.bizoe.tech/posts/chatgpt-china-cn`}
               className="mx-3 font-bold hover:underline"
             >
               中文版使用说明
