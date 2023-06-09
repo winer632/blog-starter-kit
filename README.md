@@ -69,7 +69,8 @@ npx next dev
 
 
 如果使用上述命令后遇到编译问题，可以执行npm ls命令找出版本冲突，然后在package.json文件中解决。
-比如下面这个报错就是package.json文件中next版本配置成了"next": "latest", 实际./node_modules中是13.4.4，改过来"next": "13.4.4"就好了
+比如下面这个报错就是package.json文件中next版本配置成了"next": "latest", 实际./node_modules中是13.4.4
+在package.json文件中这一行改为 "next": "13.4.4" 然后执行 pnpm install
 
 wangxinxin@CN0614009276M  ~/Desktop/blog-starter-kit   main ±  npm ls
 npm ERR! code ELSPROBLEMS
