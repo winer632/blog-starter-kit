@@ -61,3 +61,37 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 # Notes
 
 `blog-starter` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
+
+
+# 本地调试
+
+npx next dev
+
+
+如果使用上述命令后遇到编译问题，可以执行npm ls命令找出版本冲突，然后在package.json文件中解决。
+比如下面这个报错就是package.json文件中next版本配置成了"next": "latest", 实际./node_modules中是13.4.4，改过来"next": "13.4.4"就好了
+
+wangxinxin@CN0614009276M  ~/Desktop/blog-starter-kit   main ±  npm ls
+npm ERR! code ELSPROBLEMS
+npm ERR! invalid: next@13.4.4 /Users/wangxinxin/Desktop/blog-starter-kit/node_modules/next
+blog-starter-kit@ /Users/wangxinxin/Desktop/blog-starter-kit
+├── @types/node@18.16.16 -> ./node_modules/.pnpm/@types+node@18.16.16/node_modules/@types/node
+├── @types/react-dom@18.2.4 -> ./node_modules/.pnpm/@types+react-dom@18.2.4/node_modules/@types/react-dom
+├── @types/react@18.2.9 -> ./node_modules/.pnpm/@types+react@18.2.9/node_modules/@types/react
+├── @vercel/analytics@1.0.1 -> ./node_modules/.pnpm/@vercel+analytics@1.0.1/node_modules/@vercel/analytics
+├── autoprefixer@10.4.14 -> ./node_modules/.pnpm/autoprefixer@10.4.14_postcss@8.4.24/node_modules/autoprefixer
+├── classnames@2.3.2 -> ./node_modules/.pnpm/classnames@2.3.2/node_modules/classnames
+├── date-fns@2.30.0 -> ./node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns
+├── gray-matter@4.0.3 -> ./node_modules/.pnpm/gray-matter@4.0.3/node_modules/gray-matter
+├── next@13.4.4 invalid: "latest" from the root project -> ./node_modules/.pnpm/next@13.4.4_react-dom@18.2.0_react@18.2.0/node_modules/next
+├── postcss@8.4.24 -> ./node_modules/.pnpm/postcss@8.4.24/node_modules/postcss
+├── react-dom@18.2.0 -> ./node_modules/.pnpm/react-dom@18.2.0_react@18.2.0/node_modules/react-dom
+├── react@18.2.0 -> ./node_modules/.pnpm/react@18.2.0/node_modules/react
+├── remark-html@15.0.2 -> ./node_modules/.pnpm/remark-html@15.0.2/node_modules/remark-html
+├── remark@14.0.3 -> ./node_modules/.pnpm/remark@14.0.3/node_modules/remark
+├── tailwindcss@3.3.2 -> ./node_modules/.pnpm/tailwindcss@3.3.2/node_modules/tailwindcss
+└── typescript@4.9.5 -> ./node_modules/.pnpm/typescript@4.9.5/node_modules/typescript
+
+
+npm ERR! A complete log of this run can be found in: /Users/wangxinxin/.npm/_logs/2023-06-09T12_07_43_743Z-debug-0.log
+ ✘ wangxinxin@CN0614009276M  ~/Desktop/blog-starter-kit   main ± 

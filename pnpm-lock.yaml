@@ -28,16 +28,13 @@ dependencies:
   remark-html:
     specifier: ^15.0.1
     version: 15.0.2
-  typescript:
-    specifier: ^4.7.4
-    version: 4.9.5
 
 devDependencies:
   '@types/node':
-    specifier: ^18.0.3
+    specifier: ^18.16.16
     version: 18.16.16
   '@types/react':
-    specifier: ^18.0.15
+    specifier: ^18.2.9
     version: 18.2.9
   '@types/react-dom':
     specifier: ^18.0.6
@@ -51,6 +48,9 @@ devDependencies:
   tailwindcss:
     specifier: ^3.1.4
     version: 3.3.2
+  typescript:
+    specifier: ^4.9.5
+    version: 4.9.5
 
 packages:
 
@@ -1491,7 +1491,7 @@ packages:
     resolution: {integrity: sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==}
     engines: {node: '>=4.2.0'}
     hasBin: true
-    dev: false
+    dev: true
 
   /unified@10.1.2:
     resolution: {integrity: sha512-pUSWAi/RAnVy1Pif2kAoeWNBa3JVrx0MId2LASj8G+7AiHWoKZNTomq6LG326T68U7/e263X6fTdcXIy7XnF7Q==}
