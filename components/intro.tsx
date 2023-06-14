@@ -9,7 +9,7 @@ const Intro = () => {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         The official website of{' '}
         <a
-          href="https://bizoe.tech/"
+          href="https://chat.bizoe.tech/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
           ChatGPT China
