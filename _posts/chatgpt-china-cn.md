@@ -36,10 +36,6 @@ ChatGPT：让你拥有一个无所不知的良师益友！
 
 ![这是图片](/assets/blog/chatgpt-china-cn/5.webp "Payment Intent")
 
-尊贵的苹果用户还可以选择Apple Pay支付方式。
-
-![这是图片](/assets/blog/chatgpt-china-cn/15.webp "Payment Intent Apple Pay")
-
 只需几分钟，你就可以拥有一个专属于你的ChatGPT助手！赶快行动吧，享受无限的科技乐趣！ [**https://chat.bizoe.tech**](https://chat.bizoe.tech)
 
 付款成功后可以看到访问密码，请保存好访问密码，密码只会在购买成功后显示这一次。对于ChatGPT的访问完全凭借这个密码的授权。
