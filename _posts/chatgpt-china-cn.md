@@ -65,3 +65,4 @@ ChatGPT，让你与科技同行！快来加入我们吧！ [**https://chat.bizoe
 
 感兴趣的朋友欢迎加入ChatGPT China群，定期会更新群二维码
 ![这是图片](/assets/blog/chatgpt-china-cn/wechat-group.webp "wechat-group")
+![这是图片](/assets/blog/chatgpt-china-cn/QQ.jpg "QQ")
