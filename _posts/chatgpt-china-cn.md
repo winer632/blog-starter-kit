@@ -46,23 +46,23 @@ ChatGPT：让你拥有一个无所不知的良师益友！
 
 ![这是图片](/assets/blog/chatgpt-china-cn/6.webp "Payment Status")
 
-无论你是想要写一首诗，画一幅画，编一段代码，还是想要和你心目中的明星聊天，ChatGPT都能满足你的需求！
+ChatGPT支持语音交互，聊天体验更友好
+![这是图片](/assets/blog/chatgpt-china-cn/7.webp "Audio Interaction")
 
-可以给出ChatGPT一篇大家都在谈论的英文新闻网址链接，让ChatGPT写一个概要。 
-![这是图片](/assets/blog/chatgpt-china-cn/7.webp "Summarize")
+ChatGPT做2023年高考数学和英语上海卷的表现
+![这是图片](/assets/blog/chatgpt-china-cn/10.webp "Math")
+![这是图片](/assets/blog/chatgpt-china-cn/14.webp "English")
 
-当我们想要了解某些知识的时候找不到专业人士？找ChatGPT！
-![这是图片](/assets/blog/chatgpt-china-cn/10.webp "Summarize")
-![这是图片](/assets/blog/chatgpt-china-cn/14.webp "Role Play Chat")
+ChatGPT做2023年上海中考语文卷的表现
+![这是图片](/assets/blog/chatgpt-china-cn/11.webp "Chinese Composition")
 
-无聊想要找人聊天？ChatGPT可以角色扮演成你希望的样子，和你聊天解闷。
-![这是图片](/assets/blog/chatgpt-china-cn/11.webp "Role Play Chat")
+还可以使用ChatGPT写代码
+![这是图片](/assets/blog/chatgpt-china-cn/13.webp "Coding")
 
-去澳洲旅游前想学英语？没问题！要去日本旅游了，想练几句日语？也没问题！ChatGPT支持一百多种语言随意切换！是从事涉外事务人士的福音。
-![这是图片](/assets/blog/chatgpt-china-cn/13.webp "Role Play Chat")
+以及求医问药
+![这是图片](/assets/blog/chatgpt-china-cn/15.webp "Medical Assistant")
 
 ChatGPT，让你与科技同行！快来加入我们吧！ [**https://chat.bizoe.tech**](https://chat.bizoe.tech)
 
 感兴趣的朋友欢迎加入ChatGPT China群，定期会更新群二维码
 ![这是图片](/assets/blog/chatgpt-china-cn/wechat-group.webp "wechat-group")
-![这是图片](/assets/blog/chatgpt-china-cn/QQ.jpg "QQ")
