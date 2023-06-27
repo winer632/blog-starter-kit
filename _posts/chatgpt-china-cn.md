@@ -32,7 +32,8 @@ ChatGPT：让你拥有一个无所不知的良师益友！
 
 ![这是图片](/assets/blog/chatgpt-china-cn/4.webp "Payment Intent")
 
-选好其中一个套餐，点击『Proceed』按钮，进入支付页面。 
+选好其中一个套餐，点击『Proceed』按钮，进入支付页面。 请注意不要在微信内打开支付页面，微信限制网页跳转，可能会导致支付成功后无法弹出访问密码。
+我们日常使用的时候可以使用微信打开聊天界面，对于聊天功能微信是没有限制的。
 
 ![这是图片](/assets/blog/chatgpt-china-cn/5.webp "Payment Intent")
 
