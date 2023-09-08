@@ -3,7 +3,7 @@ title: 'The road to serfdom'
 excerpt: 'What has always made the state a hell on earth has been
 precisely that man has tried to make it his heaven.
                                                   F. Hoelderlin.'
-coverImage: '/assets/blog/governance-of-superintelligence/the_road_to_serfdom.webp'
+coverImage: '/assets/blog/the-road-to-serfdom/the_road_to_serfdom.webp'
 date: '2023-09-09T05:35:07.322Z'
 author:
   name: F.A.Hayek
