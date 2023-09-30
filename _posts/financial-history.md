@@ -2,7 +2,7 @@
 title: '三千年东西方兴衰金融史'
 excerpt: '古代中国的体制环境在16世纪前后并没有发生明显的变化，为什么同样的政经文化体制、气候地理环境在16世纪前造就了繁荣，而在16世纪后却以至于衰败呢？本文回顾了三千年东西方兴衰金融史，探究了古代中国的纸币制度与白银本位的兴起与瓦解，剖析了中国经济衰落及西欧列强崛起的原因，对李约瑟之谜进行了解答。'
 coverImage: '/assets/blog/financial-history/capitalism.webp'
-date: '2023-09-09T05:35:07.322Z'
+date: '2023-09-28T05:35:07.322Z'
 author:
   name: 殷剑峰
   picture: '/assets/blog/authors/yjf.jpeg'
