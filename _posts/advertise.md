@@ -29,6 +29,6 @@ ogImage:
 目前我们已经积累了一些客户，主要是高校教师、研究所研究员、以及金融机构从业人员。客户对我们提供的这项便民服务表示满意，我们也希望能为更多朋友带来便利。
 ![这是图片](/assets/blog/advertise/cus.webp "customer")
 
-bizoe.tech 今后也会发一些blog，大家要是觉得有帮助欢迎打赏
+今后也会发一些blog在 [**https://blog.bizoe.tech**](https://blog.bizoe.tech)  ，大家要是觉得有帮助欢迎来 [**https://pay.bizoe.tech**](https://pay.bizoe.tech)  打赏
 ![这是图片](/assets/blog/advertise/ds.webp "reward")
 
