@@ -163,7 +163,8 @@ Codex 的模型 code-davinci-002 通过学习 GitHub 的开源代码获得了超
 当时，大部分观众都没有想到，园区的现任研发主管Bernard是机器人，而且很可能是最早的机器人员工。他是Ford的老朋友Arnold的不完美数字拷贝，Ford给Bernard安排了一个鳏夫的背景身份，让他像一个只关心技术的Nerd一样，长时间地在乐园里设计和维护其他接待员的程序。在《Trace Decay》一集中，Ford告诉Bernard，他创造Bernard是因为人类员工无法像Ford和Arnold那样有效地为接待员进行编程情感。现在，这些认识让我们重新审视当初的情节，更好地理解剧情发展。
 
 ![这是图片](/assets/blog/Heidegger-ChatGPT-Westworld-P1/image7.webp "image7")
-                    Ford and Bernard adversary  
+
+                      Ford and Bernard adversary  
 
 阅读完之前的讨论内容后，对于这个剧情设定的惊讶程度可能就降低了。如果我们想象中的强AI真的实现了，它首先发挥作用的领域很可能就是程序设计。就像Ford创造Bernard的原因一样，AI可以在编程方面超过大多数人类程序员。
 
@@ -192,6 +193,7 @@ Elon Musk从OpenAI退出并不是因为他对AI的发展失去了信心，而是
 《西部世界》描绘的路径即是如此，Ford在30年前引入了Delos的投资，以支撑他和Arnold未完成的愿望，创造真正的人工智能。老岳富James Delos的愿望更简单，他想获得永生。
 
 ![这是图片](/assets/blog/Heidegger-ChatGPT-Westworld-P1/image8.webp "image8")
+
                      James Delos shares a drink  
 
 《西部世界》第二季和《流浪地球2》都讨论了自我迭代的数字意识如何能够通过基准性测试而不崩溃的问题。这是关于人类认知的经典命题，从笛卡尔的“Cogito, ergo sum”到攻壳机动队的“Ghost in a shell”，让无数人不断思考和着迷。现实中，基于机器学习和AI研究，如果我们真的可以复制人类意识并构建模型，那么“我如何证明我还存在”的问题或许可以转化为彻底的数学问题。对于机器学习模型来说，这可能等同于模型是否能够收敛，收敛后的模型是否能够与基准性测试对齐。
@@ -229,7 +231,9 @@ Elon Musk在OpenAI出尽风头后，也酸酸地表达了自己的委屈：我�
 与此同时，其他公司的NLP研究者可能还在进行模型跑分。在NLP领域著名的跑分排行榜SuperGlue中，我们会发现许多熟悉的名字，包括那些被人嘲笑、被人批评的公司或机构都在排行榜的前列。
 
 ![这是图片](/assets/blog/Heidegger-ChatGPT-Westworld-P1/image9.webp "image9")
-SuperGlue Benchmark Leaderboard
+
+               SuperGlue Benchmark Leaderboard
+               
 “跑分有意义吗？当然是有意义的，但是在用户体验面前，跑分再高有什么用呢？” iPhone ChatGPT如是说。值得一提的是，GPT3其实也在榜上，但是排在20名开外。
 
 在OpenAI事实上已经成为Microsoft白手套的今天，我们可能永远也不会知道它取得工程突破的方法。如果从资深炼金术师的角度思考，即使论文作者公开了所有的工程实践路线和方法，其他人也不一定能复制成功，因为突破的过程可能是非常神奇和不可预测的。如果你有幸阅读过几篇大型模型领域的突破性研究论文（或实验报告），你一定会在字里行间发现作者们对智能涌现的神奇感叹，因为他们确实也不知道这项技术是如何被炼制出来的。
