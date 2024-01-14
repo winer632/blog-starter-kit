@@ -22,7 +22,7 @@ gpt-4-1106-preview模型相较之前的模型做了很多优化，并且训练�
 系统默认选择的是gpt-4-1106-preview模型，也可以选择gpt-3.5-turbo-1106模型
 ![这是图片](/assets/blog/chatgpt-china-cn/choose_model.webp "choose_model")
 
-等不及要借助GPT-4的智能来提升你的竞争力了吗？请按照下面的说明购买套餐和设置
+立即引领行业潮流，提升您的业务竞争力！选择GPT-4，选择智能的力量。现在就按照以下步骤购买您的专属套餐，并开始设置，开启您的AI转型之旅。
 
 打开 [**https://chat.bizoe.tech**](https://chat.bizoe.tech) 您首先会看到一个聊天界面。 点击新的聊天，就可以向ChatGPT提任何问题。
 
