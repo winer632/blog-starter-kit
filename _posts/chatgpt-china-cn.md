@@ -1,6 +1,6 @@
 ---
-title: 'ChatGPT中国来了'
-excerpt: 'ChatGPT是一个智能AI助手，可以回答你的任何问题，帮助你完成任何任务，和你用任何语言聊天。要使用ChatGPT，你需要访问 https://chat.bizoe.tech 并订阅一个套餐来获取访问密码。然后你就可以享受世界上最尖端的科技成果，并和ChatGPT玩得开心。ChatGPT可以为你写摘要、诗歌、代码等等。它还可以扮演你最喜欢的明星或者教你外语。ChatGPT是你的博学而乐于助人的朋友，让你与科技同行。'
+title: '方便的使用GPT-4模型'
+excerpt: '无需穿越网络障碍，无需高昂的月费，现在您就能在中国大陆及港澳地区畅享世界上最尖端的gpt-4-1106-preview模型。立即访问 https://chat.bizoe.tech，选择您的专属套餐，即可轻松获取访问权限。仅需200元的年费或30元的月费，高端的AI技术便触手可及。我们致力于打破技术壁垒，让前沿的AI科技服务于每一个家庭，每一个用户。立刻行动，让智能科技成为生活的一部分！'
 coverImage: '/assets/blog/chatgpt-china-cn/cover.webp'
 date: '2023-06-09T05:35:07.322Z'
 author:
@@ -10,11 +10,19 @@ ogImage:
   url: '/assets/blog/chatgpt-china-cn/cover.webp'
 ---
 
-ChatGPT：让你拥有一个无所不知的良师益友！
+无需穿越网络障碍，无需高昂的月费，现在您就能在中国大陆及港澳地区畅享世界上最尖端的gpt-4-1106-preview模型。立即访问 [**https://chat.bizoe.tech**](https://chat.bizoe.tech) ，选择您的专属套餐，即可轻松获取访问权限。仅需200元的年费或30元的月费，高端的AI技术便触手可及。
+我们致力于打破技术壁垒，让前沿的AI科技服务于每一个家庭，每一个用户。立刻行动，让智能科技成为生活的一部分！
 
-你是否曾经想过，如果有一个能够回答你任何问题，帮助你完成任何任务，陪伴你度过任何时刻的良师益友，那该有多好？现在，这一切都可以实现了！ChatGPT中国站来了！让每个人都可以零门槛触及到最新的科技成果！
+我们支持OpenAI最新的gpt-4-1106-preview模型
+![这是图片](/assets/blog/chatgpt-china-cn/model_description.webp "model_description")
 
-只需访问 [**https://chat.bizoe.tech**](https://chat.bizoe.tech) 您就可以立即享受世界最尖端的科技成果，拥有一个智力超群的AI助手！
+gpt-4-1106-preview模型相较之前的模型做了很多优化，并且训练数据截止日期是2023年4月，可以结合最新的知识解答问题
+![这是图片](/assets/blog/chatgpt-china-cn/official_website.webp "official_website")
+
+系统默认选择的是gpt-4-1106-preview模型，也可以选择gpt-3.5-turbo-1106模型
+![这是图片](/assets/blog/chatgpt-china-cn/choose_model.webp "choose_model")
+
+等不及要借助GPT-4的智能来提升你的竞争力了吗？请按照下面的说明购买套餐和设置
 
 打开 [**https://chat.bizoe.tech**](https://chat.bizoe.tech) 您首先会看到一个聊天界面。 点击新的聊天，就可以向ChatGPT提任何问题。
 
@@ -30,6 +38,8 @@ ChatGPT：让你拥有一个无所不知的良师益友！
 
 需要订阅套餐就能获取访问密码。 点击首页下方的『订阅套餐购买访问密码』按钮，进入选择套餐页面.
 
+![这是图片](/assets/blog/chatgpt-china-cn/9.webp "Payment Entry Point")
+
 ![这是图片](/assets/blog/chatgpt-china-cn/4.webp "Payment Intent")
 
 选好其中一个套餐，点击『Proceed』按钮，进入支付页面。 请注意不要在微信内打开支付页面，微信限制网页跳转，可能会导致支付成功后无法弹出访问密码。
@@ -37,33 +47,21 @@ ChatGPT：让你拥有一个无所不知的良师益友！
 
 ![这是图片](/assets/blog/chatgpt-china-cn/5.webp "Payment Intent")
 
-只需几分钟，你就可以拥有一个专属于你的ChatGPT助手！赶快行动吧，享受无限的科技乐趣！ [**https://chat.bizoe.tech**](https://chat.bizoe.tech)
-
 付款成功后可以看到访问密码，请保存好访问密码，密码只会在购买成功后显示这一次。对于ChatGPT的访问完全凭借这个密码的授权。
 
 ![这是图片](/assets/blog/chatgpt-china-cn/8.webp "Payment Status")
 
-点击右下方的『设置访问密码』按钮，进入设置页面 [**https://chat.bizoe.tech/#/settings**](https://chat.bizoe.tech/#/settings) 。 将刚才复制的密码粘贴过来，然后点击『重新检查』按钮，刚才购买的是一年有效期的访问密码，可以看到有效期到2024年6月8号。设置好密码之后就可以愉快的玩耍了！
+点击右下方的『设置访问密码』按钮，进入设置页面 [**https://chat.bizoe.tech/#/settings**](https://chat.bizoe.tech/#/settings) 。 将刚才复制的密码粘贴过来，然后点击『重新检查』按钮，刚才购买的是一年有效期的访问密码，可以看到有效期到2024年7月26号。设置好密码之后就可以愉快的玩耍了！
 
 ![这是图片](/assets/blog/chatgpt-china-cn/6.webp "Payment Status")
 
 ChatGPT支持语音交互，聊天体验更友好
 ![这是图片](/assets/blog/chatgpt-china-cn/7.webp "Audio Interaction")
 
-ChatGPT做2023年高考数学和英语上海卷的表现
-![这是图片](/assets/blog/chatgpt-china-cn/10.webp "Math")
-![这是图片](/assets/blog/chatgpt-china-cn/14.webp "English")
+在智慧的较量中，GPT-4是你的量子跃迁。它不仅仅是一项技术，而是你思维的超级加速器。在信息的海洋里，GPT-4如同隐形的翼，让你飞得更高更远，而竞争对手仍在地面仰望。
 
-ChatGPT做2023年上海中考语文卷的表现
-![这是图片](/assets/blog/chatgpt-china-cn/11.webp "Chinese Composition")
+GPT-4，智慧的革新者。它以前所未有的速度和深度解锁知识，让你在决策时总是领先一步。在商业策略的制定、科研问题的攻克、甚至日常生活的优化上，GPT-4都能为你带来革命性的提升。
 
-还可以使用ChatGPT写代码
-![这是图片](/assets/blog/chatgpt-china-cn/13.webp "Coding")
+别让自己在智慧的竞赛中落后，GPT-4是你的秘密武器，让你在知识的战场上所向披靡。现在就让GPT-4携你登上智慧的顶峰，体验前所未有的思维力量。
 
-以及求医问药
-![这是图片](/assets/blog/chatgpt-china-cn/15.webp "Medical Assistant")
-
-ChatGPT，让你与科技同行！快来加入我们吧！ [**https://chat.bizoe.tech**](https://chat.bizoe.tech)
-
-感兴趣的朋友欢迎加入ChatGPT China群，定期会更新群二维码
-![这是图片](/assets/blog/chatgpt-china-cn/wechat-group.webp "wechat-group")
+GPT-4，增强你的竞争力！快来加入我们吧！ [**https://chat.bizoe.tech**](https://chat.bizoe.tech)
