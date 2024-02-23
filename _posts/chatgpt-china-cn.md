@@ -1,6 +1,6 @@
 ---
 title: '方便的使用GPT-4模型'
-excerpt: '无需穿越网络障碍，无需高昂的月费，现在您就能在中国大陆及港澳地区畅享世界上最尖端的gpt-4-1106-preview模型。立即访问 https://chat.bizoe.tech，选择您的专属套餐，即可轻松获取访问权限。仅需200元的年费或30元的月费，高端的AI技术便触手可及。我们致力于打破技术壁垒，让前沿的AI科技服务于每一个家庭，每一个用户。立刻行动，让智能科技成为生活的一部分！'
+excerpt: '无需穿越网络障碍，无需高昂的月费，现在您就能在中国大陆及港澳地区畅享世界上最尖端的gpt-4-0125-preview模型。立即访问 https://chat.bizoe.tech，选择您的专属套餐，即可轻松获取访问权限。仅需300元的年费或40元的月费，高端的AI技术便触手可及。我们致力于打破技术壁垒，让前沿的AI科技服务于每一个家庭，每一个用户。立刻行动，让智能科技成为生活的一部分！'
 coverImage: '/assets/blog/chatgpt-china-cn/cover.webp'
 date: '2023-06-09T05:35:07.322Z'
 author:
@@ -10,16 +10,16 @@ ogImage:
   url: '/assets/blog/chatgpt-china-cn/cover.webp'
 ---
 
-无需穿越网络障碍，无需高昂的月费，现在您就能在中国大陆及港澳地区畅享世界上最尖端的gpt-4-1106-preview模型。立即访问 [**https://chat.bizoe.tech**](https://chat.bizoe.tech) ，选择您的专属套餐，即可轻松获取访问权限。仅需200元的年费或30元的月费，高端的AI技术便触手可及。
+无需穿越网络障碍，无需高昂的月费，现在您就能在中国大陆及港澳地区畅享世界上最尖端的gpt-4-0125-preview模型。立即访问 [**https://chat.bizoe.tech**](https://chat.bizoe.tech) ，选择您的专属套餐，即可轻松获取访问权限。仅需300元的年费或40元的月费，高端的AI技术便触手可及。
 我们致力于打破技术壁垒，让前沿的AI科技服务于每一个家庭，每一个用户。立刻行动，让智能科技成为生活的一部分！
 
-我们支持OpenAI最新的gpt-4-1106-preview模型
+我们支持OpenAI最新的gpt-4-0125-preview模型
 ![这是图片](/assets/blog/chatgpt-china-cn/model_description.webp "model_description")
 
-gpt-4-1106-preview模型相较之前的模型做了很多优化，并且训练数据截止日期是2023年4月，可以结合最新的知识解答问题
+gpt-4-0125-preview模型相较之前的模型做了很多优化，并且训练数据截止日期是2023年4月，可以结合最新的知识解答问题
 ![这是图片](/assets/blog/chatgpt-china-cn/official_website.webp "official_website")
 
-系统默认选择的是gpt-4-1106-preview模型，也可以选择gpt-3.5-turbo-1106模型
+系统默认选择的是gpt-4-0125-preview模型，也可以选择gpt-3.5-turbo-1106模型
 ![这是图片](/assets/blog/chatgpt-china-cn/choose_model.webp "choose_model")
 
 立即引领行业潮流，提升您的业务竞争力！选择GPT-4，选择智能的力量。现在就按照以下步骤购买您的专属套餐，并开始设置，开启您的AI转型之旅。
