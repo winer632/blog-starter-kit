@@ -16,7 +16,7 @@ ogImage:
 我们支持OpenAI最新的gpt-4-0125-preview模型
 ![这是图片](/assets/blog/chatgpt-china-cn/model_description.webp "model_description")
 
-gpt-4-0125-preview模型相较之前的模型做了很多优化，并且训练数据截止日期是2023年4月，可以结合最新的知识解答问题
+gpt-4-0125-preview模型相较之前的模型做了很多优化，并且训练数据截止日期是2023年12月，可以结合最新的知识解答问题
 ![这是图片](/assets/blog/chatgpt-china-cn/official_website.webp "official_website")
 
 系统默认选择的是gpt-4-0125-preview模型，也可以选择gpt-3.5-turbo-1106模型
