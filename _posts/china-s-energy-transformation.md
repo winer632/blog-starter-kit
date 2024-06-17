@@ -4,7 +4,7 @@ excerpt: 'Oil is a crucial import and a national strategic resource for China. T
 coverImage: '/assets/blog/china-s-energy-transformation/1.webp'
 date: '2024-06-17T14:35:07.322Z'
 author:
-  name: wangxinxin & GPT
+  name: wangxinxin
   picture: '/assets/blog/authors/floral.webp'
 ogImage:
   url: '/assets/blog/china-s-energy-transformation/1.webp'
