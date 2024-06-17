@@ -1,17 +1,17 @@
 ---
 title: 'The End of Petrodollars and the Structural Collapse of the U.S. Dollar'
 excerpt: 'On June 9, the longstanding oil and security agreement between the United States and Saudi Arabia expired without official renewal, signaling a potential end to the petrodollar system. Historically, this agreement had Saudi oil exports priced in U.S. dollars, with the U.S. providing military support to Saudi Arabia. Today, with Saudi Arabia potentially moving to sell oil in various currencies, including euros, yen, and yuan, the market foundation for the petrodollar is eroding. This shift is prompting other major oil producers and consumers, such as Russia and China, to consider non-dollar transactions, weakening the dollar's dominance in global trade. As the petrodollar system collapses, the global trade currency system begins to deviate from the dollar, leading to significant implications for U.S. inflation, interest rates, and the broader international financial order. This marks a pivotal moment in the trend towards de-dollarization and the rise of local currency settlements.'
-coverImage: '/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/3.webp'
+coverImage: '/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/3.webp'
 date: '2024-06-17T14:35:07.322Z'
 author:
   name: zhouziheng
   picture: '/assets/blog/authors/zhouziheng.webp'
 ogImage:
-  url: '/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/3.webp'
+  url: '/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/3.webp'
 ---
 ### The End of Petrodollars and the Structural Collapse of the U.S. Dollar
 
-![这是图片](/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/1.webp "1")
+![这是图片](/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/1.webp "1")
 Petrodollar: audi Arabia Ditching the Dollar Will Affect 3 US Sectors
 https://watcher.guru/news/petrodollar-saudi-arabia-ditching-the-dollar-will-affect-3-us-sectors
 
@@ -19,7 +19,7 @@ On June 9, the long-standing oil and security agreement between the United State
 
 The petrodollar system has been on shaky ground for years, and it now appears to be at a breaking point. The global dominance of the U.S. dollar, as the leading international currency, is experiencing a structural collapse.
 
-![这是图片](/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/2.webp "2")
+![这是图片](/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/2.webp "2")
 Saudi Arabia's petro-dollar exit: A global finance paradigm shift
 https://www.tbsnews.net/world/global-economy/saudi-arabias-petro-dollar-exit-global-finance-paradigm-shift-875321
 
@@ -27,7 +27,7 @@ Since the advent of shale oil development, the United States has held the title 
 
 On June 8, 1974, the United States and Saudi Arabia signed the petrodollar and security agreement, stipulating that Saudi oil exports would be priced and settled in U.S. dollars, with the U.S. providing military equipment and security assurances to Saudi Arabia. With the petrodollar agreement shelved, the U.S.-Saudi security agreement requires renegotiation. Historically, the essence of the U.S.-Saudi petrodollar agreement has been Saudi Arabia's geopolitical security. Initially, this involved Saudi-Israeli security relations, and following the Iranian Islamic Revolution, Saudi-Iranian security relations also came to the forefront. Within the balance of the tripartite security framework, Iran and Saudi Arabia are both Muslim-majority oil states, while Saudi Arabia and Israel are U.S. allies. This has driven the U.S. to foster closer Saudi-Israeli relations, turning the triangular balance into a bilateral confrontation. However, last March, Saudi Arabia and Iran reconciled in Beijing, fully thawing their relations. After the Gaza war broke out last October, Saudi-Israeli relations have become increasingly strained, reverting to the inherent framework of the Islamic world versus Israel. Realistically, in the triangular relationship between Saudi Arabia, Iran, and Israel, both Israel and Iran have de facto nuclear capabilities, leaving Saudi Arabia needing to bridge this gap for its security. Hence, a new U.S.-Saudi security agreement must involve nuclear considerations, which is still under discussion and review. This indicates that without nuclear components, the U.S.-Saudi security framework cannot revert to its past form and may completely unravel.
 
-![这是图片](/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/3.webp "3")
+![这是图片](/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/3.webp "3")
 All You Need To Know About Saudi's 'Departure' From Petro-Dollar Deal And Its Implications For US
 Is Saudi Arabia's 'Departure' From Petro-Dollar Deal An End To US Dollar Domination? US Loses Dollar Supremacy
 https://timelinedaily.com/business/all-you-need-to-know-about-saudis-departure-from-petro-dollar-deal-and-its-implications-for-us
@@ -44,7 +44,7 @@ Not renewing the petrodollar agreement aligns with Saudi Arabia's broader strate
 
 The collapse of the petrodollar marks the end of the dollar's exclusive monopoly, with widespread currency alternatives emerging. Following this, transactions in raw materials and other commodities such as food, fertilizers, minerals, and metals will move away from the dollar. Although the dollar remains the dominant investment currency and indispensable in futures trading, a "currency gap" may develop between futures trading and physical transactions, with non-futures trade currencies deviating from the dollar.
 
-![这是图片](/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/4.webp "4")
+![这是图片](/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/4.webp "4")
 US-Saudi petrodollar deal ends after 80 years: What are petrodollars?
 The US-Saudi Arabia petrodollar deal has ended after 80 years. Read on to learn about the history of the deal and what petrodollars are.
 https://www.indiatoday.in/business/story/us-saudi-arabia-petrodollar-deal-history-significance-what-is-it-2553088-2024-06-14
@@ -63,7 +63,7 @@ With reduced demand for dollars as a reserve currency, in the short term, there 
 
 Especially with the expectation of lower U.S. interest rates, the surplus dollars might not push up dollar assets but could directly impact the foundation of dollar asset structures. Further reducing U.S. debt holdings and shifting to other categories of dollar assets could be more disruptive. The U.S. Treasury's early December launch of its debt buyback plan underscores this point, even as U.S. stocks took a hit from the debt market's volatility.
 
-![这是图片](/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/5.webp "5")
+![这是图片](/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/5.webp "5")
 The expiration of Saudi Arabia’s petrodollar deal with the United States without a new agreement signals a potential paradigm shift in global finance say experts.
 https://therahnuma.com/editorial-a-call-for-a-balanced-u-s-approach-on-the-palestinian-issue/
 
@@ -77,7 +77,7 @@ Finally, the dollar may enter a controlled depreciation channel.
 
 With the petrodollar heading towards a historical end, some critics mock that the only things supporting the dollar now are hope, dreams, unicorns, and lies. Worse than the dollar's devaluation is the deliberate disregard for this depreciation, leading to a loss of control. The petrodollar's decline and end could help manage the dollar's depreciation and enhance its ability to refinance national debt at lower interest rates. Without dominating broad geopolitical trends or overcoming sharp conflicts, the dollar must adapt. Entering a controlled depreciation channel is crucial for the adjustment of the global financial order, with far-reaching impacts.
 
-![这是图片](/assets/blog/The-End-of-Petrodollars-and-the-Structural-Collapse-of-the-U.S.-Dollar/6.webp "6")
+![这是图片](/assets/blog/the-end-of-petrodollars-and-the-structural-collapse-of-the-us-dollar/6.webp "6")
 Petrodollar: audi Arabia Ditching the Dollar Will Affect 3 US Sectors
 https://watcher.guru/news/petrodollar-saudi-arabia-ditching-the-dollar-will-affect-3-us-sectors
 
