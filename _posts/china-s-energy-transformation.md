@@ -1,13 +1,13 @@
 ---
 title: 'China's Energy Transformation'
 excerpt: 'Oil is a crucial import and a national strategic resource for China. This article explores the main application scenarios of oil and highlights the significant role automobiles play in its consumption. Specifically, automobiles account for approximately 42% of China's total oil consumption, which includes both crude and refined products. Given this substantial share, a comprehensive switch to electric vehicles (EVs) in the automotive industry is pivotal to China's energy transition strategy. This shift is not only vital for reducing dependence on imported oil but also aligns with China's goals for achieving peak carbon emissions and carbon neutrality in the coming decades​ (Council on Foreign Relations)​​ (CGTN)​.'
-coverImage: '/assets/blog/china-s-energy-transformation/VCE-Chinas-Plan-to-Go-Green-v1.8.webp'
+coverImage: '/assets/blog/china-s-energy-transformation/1.webp'
 date: '2024-06-17T14:35:07.322Z'
 author:
   name: wangxinxin & GPT
   picture: '/assets/blog/authors/floral.webp'
 ogImage:
-  url: '/assets/blog/china-s-energy-transformation/VCE-Chinas-Plan-to-Go-Green-v1.8.webp'
+  url: '/assets/blog/china-s-energy-transformation/1.webp'
 ---
 
 # People say that oil is an important import item and a national strategic resource. What are the main application scenarios of oil?
